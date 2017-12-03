@@ -13,3 +13,36 @@
   color: white;
   padding: 5px;
 }
+
+body {
+    min-width: 960px; 
+    font-size: 20px;
+    line-height: 34px;
+    font-family: "PT Sans Narrow", "Arial", sans-serif;
+    color: #050505;
+    background: #ffffff;
+}
+
+.container {
+    width: 800px;
+    height: 870px;
+    padding: 80px 80px;
+    margin: 100px;
+}
+
+.phrase {
+    margin: 50px;
+    margin-bottom: 0;
+}
+
+.first-button,
+.second-button {
+    display: block;
+    font-size: inherit;
+    width: 200px;
+    height: 100px;
+    border: 10px solid #ec111c;
+    margin: 50px;
+    margin-top: 0px;
+}
+
